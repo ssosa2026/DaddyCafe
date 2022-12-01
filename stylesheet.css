@@ -140,6 +140,17 @@ aside {
     text-align: center;
     border:solid #c89143
 }
+.boxList{
+    width: auto;
+    height: auto;
+    background: rgba(22, 22, 22,0.7);
+    margin: 20px 50px;
+    border-radius: 10px;
+    font-size: 24px;
+    text-align: center;
+    border:solid #c89143;
+    line-height:50px;
+}
 .boxVideo{
     float:left;
     margin-right: auto;
@@ -164,7 +175,8 @@ footer {
     font-size: 12px;
     border-top: solid #c89143;
     border-radius: 10px;
-}
-div ul li{
+  }
+
+  .box ul li{
     line-height: 100px;
-}
+  }
